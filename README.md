@@ -26,9 +26,9 @@ A modern and fully responsive college website redesign project developed using H
 - AOS (Animate On Scroll)
 - Font Awesome
 
-## 📸 Screenshots
+## 📸 Demo Image
 
-
+![Homepage](images/home.png)
 
 ## 🎯 Purpose
 
